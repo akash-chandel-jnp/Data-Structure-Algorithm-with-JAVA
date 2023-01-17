@@ -1,4 +1,4 @@
-public class Lesson12b_prefix_array_my_practice {
+public class L12b_prefix_array_my_practice {
     public static void maxSumSubArray_prefix(int numbers[]){
         int max_sum = Integer.MIN_VALUE;
         int prefix_arr[] = new int[numbers.length];

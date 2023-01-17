@@ -1,4 +1,4 @@
-public class Lesson3_Printing_array {
+public class L3_Printing_array {
     public static void main(String[] args) {
         int numbers[ ] = { 2,4,6,8,10,12 }; 
         // 6 items --> 

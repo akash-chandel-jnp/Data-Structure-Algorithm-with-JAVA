@@ -1,4 +1,4 @@
-public class Lesson12A_max_subarray_sum_BruteForce{
+public class L12A_max_subarray_sum_BruteForce{
     public static void maxSubarraySum(int numbers[]){
         int currSum =0;
         int maxSum = Integer.MIN_VALUE; // - infinity (negative)

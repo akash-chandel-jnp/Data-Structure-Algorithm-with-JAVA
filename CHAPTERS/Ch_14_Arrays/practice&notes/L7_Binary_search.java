@@ -1,6 +1,6 @@
 import javax.swing.text.html.StyleSheet;
 
-public class Lesson7_Binary_search {
+public class L7_Binary_search {
     public static void main(String[] args) {
         int numbers[] = {23,45,56,67,78,89,96,123,234,346};
         // find the index of 56 in the arrray using binanry search not linear search

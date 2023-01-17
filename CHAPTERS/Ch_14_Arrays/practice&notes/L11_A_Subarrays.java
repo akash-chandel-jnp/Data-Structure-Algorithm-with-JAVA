@@ -1,4 +1,4 @@
-public class Lesson11_A_Subarrays {
+public class L11_A_Subarrays {
     public static void sub_arrays_creator(int numbers[]){
         int count_subarrays =0;
         for (int i =0; i< numbers.length; i++){

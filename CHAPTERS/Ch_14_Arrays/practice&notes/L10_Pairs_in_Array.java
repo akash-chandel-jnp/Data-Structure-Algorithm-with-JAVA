@@ -1,4 +1,4 @@
-public class Lesson10_Pairs_in_Array {
+public class L10_Pairs_in_Array {
     public static void distinct_pair_in_array(int numbers[]){
         for (int i = 0; i<numbers.length; i++){
             int current_item =numbers[i]; // not nececassary line no. 4

@@ -1,6 +1,6 @@
 /* UPDATING AN ARRAY AND PRINTING ARRAY USING FOR LOOP  */
 
-public class Lesson3_accessing_items_in_arrays {
+public class L3_accessing_items_in_arrays {
     public static void main(String[] args) {
         int sub_marks[] = new int[5];
         sub_marks[0] = 85;

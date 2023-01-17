@@ -3,7 +3,7 @@
  */
 
  import java.util.Scanner;
- public class Lesson2_input_output{
+ public class L2_input_output{
     public static void main(String[] args) {
         String names[]  = new String[50];
         Scanner sc = new Scanner(System.in);

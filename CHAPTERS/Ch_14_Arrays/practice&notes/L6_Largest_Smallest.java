@@ -1,7 +1,7 @@
 import java.util.*;
 
 import javax.swing.plaf.synth.SynthOptionPaneUI;
-public class Lesson6_Largest_Smallest {
+public class L6_Largest_Smallest {
     public static int largest_finder(int numbers[]){
         int largest = Integer.MIN_VALUE;
         int smallest = Integer.MAX_VALUE;

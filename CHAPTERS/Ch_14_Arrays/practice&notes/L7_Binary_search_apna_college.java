@@ -1,4 +1,4 @@
-public class Lesson7_Binary_search_apna_college {
+public class L7_Binary_search_apna_college {
     public static int binary_search(int numbers[], int key){
         int start = 0;
         int end = numbers.length -1;

@@ -1,4 +1,4 @@
-public class Lesson4_arrayAsArguments {
+public class L4_arrayAsArguments {
     public static void main(String[] args) {
         int marks[] =  { 85, 95, 80, 75 , 65 };
         int standard = 8;

@@ -1,4 +1,4 @@
-public class Lesson12B_max_subarray_sum_PrefixArray{
+public class L12B_max_subarray_sum_PrefixArray{
     public static void maxSubarraySum(int numbers[]){
         int currSum =0;
         int maxSum = Integer.MIN_VALUE; // - infinity (negative)

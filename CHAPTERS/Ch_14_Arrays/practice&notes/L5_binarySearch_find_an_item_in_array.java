@@ -1,6 +1,6 @@
 import javax.print.attribute.standard.RequestingUserName;
 
-public class Lesson5_binarySearch_find_an_item_in_array {
+public class L5_binarySearch_find_an_item_in_array {
     public static int index_finder(int numbers[ ], int num_to_search){
         
         for (int i =0; i< numbers.length ; i ++){

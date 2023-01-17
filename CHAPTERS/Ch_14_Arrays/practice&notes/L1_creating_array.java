@@ -1,4 +1,4 @@
-public class Lesson1_creating_array {
+public class L1_creating_array {
     public static void main(String[] args) {
         
         //method 1st to build an array

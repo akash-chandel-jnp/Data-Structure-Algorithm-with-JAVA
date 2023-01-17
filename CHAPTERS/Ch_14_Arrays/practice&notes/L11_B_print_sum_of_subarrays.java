@@ -1,4 +1,4 @@
-public class Lesson11_B_print_sum_of_subarrays {
+public class L11_B_print_sum_of_subarrays {
    
         public static void sub_arrays_creator(int numbers[]){
             int count_subarrays =0;

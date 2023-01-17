@@ -1,4 +1,4 @@
-public class Lesson13_RainWater_Trapping {
+public class L13_RainWater_Trapping {
     public static int trappedRainwater(int height){
 
         // calculate left max boundary -- array

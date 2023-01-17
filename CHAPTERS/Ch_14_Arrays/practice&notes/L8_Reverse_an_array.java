@@ -1,6 +1,6 @@
 import javax.swing.SpinnerDateModel;
 
-public class Lesson8_Reverse_an_array {
+public class L8_Reverse_an_array {
     public static void reverse_array( int numbers[]){
         int first =0 , last = numbers.length - 1;
         while (first < last){
